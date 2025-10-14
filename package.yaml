@@ -1,9 +1,9 @@
 name:                TodoApp
 version:             0.1.0.0
-github:              "yourusername/haskell-todoapp"
+github:              "april-hpxd/haskell-todoapp"
 license:             BSD3
 author:              "Altynai"
-maintainer:          "you@example.com"
+maintainer:          "aruslanova@knox.edu"
 extra-source-files:  ["README.md"]
 
 # Library (Task.hs)
@@ -36,3 +36,4 @@ executables:
       - directory
       - text
       - containers
+
